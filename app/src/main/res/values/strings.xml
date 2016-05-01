@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="one">One</string>
+    <string name="in">In</string>
+    <string name="equal">Is Equal To</string>
+    <string name="result">Click Calculate for Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="powered">Utilise Yahoo finance</string>
+
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="name">
+        <item >Bahraini Dinard</item>
+        <item >US Dollar</item>
+        <item >European Union Euro</item>
+        <item >British Pound</item>
+        <item >Qatari Ryal</item>
+    </string-array>
+    <string-array name="value">
+        <item >BHD</item>
+        <item >USD</item>
+        <item >EUR</item>
+        <item >GBP</item>
+        <item >QAR</item>
+    </string-array>
+</resources>
